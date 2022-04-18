@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @OliverCalman
+- 👀 I’m interested in webapps, SOI architecture, AI and ML
+- 🌱 I’m currently studying a Masters in IT, majoring in Software Engineering
+- 💞️ I’m looking to collaborate on IoT and AI projects
+- </> My tech stack: html/css, javascript, java, python, C#, PHP
+- 📫 How to reach me: olivercalman@icloud.com
